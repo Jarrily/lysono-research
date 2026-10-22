@@ -340,11 +340,11 @@ _让 AI 科研不再是程序员的专利，让创新想法快速落地成论文
 
 如果本平台对您的研究有所帮助，请在论文的致谢（Acknowledgements）部分注明：
 
-> Some of the data analyses and experiments in this study were performed using the LySono Research Platform (https://github.com/XXXXXXXXXXXXXXXXXXXXXXXX). We thank the LySono team for their technical support of this research.
+> Some of the data analyses and experiments in this study were performed using the LySono Research Platform (https://github.com/Jarrily/lysono-research). We thank the LySono team for their technical support of this research.
 
-> 本研究的部分数据分析和实验使用了荔声科研平台（LySono Research Platform，https://github.com/XXXXXXXXXXXXXXXXXXXXXXXX） 。感谢荔声团队对本研究的技术支持。
+> 本研究的部分数据分析和实验使用了荔声科研平台（LySono Research Platform，https://github.com/Jarrily/lysono-research） 。感谢荔声团队对本研究的技术支持。
 
-平台主页：[LySono Research Platform (V2.83.0)](https://github.com/XXXXXXXXXXXXXXXXXXXXXXXX)
+平台主页：[LySono Research Platform (V2.87.0)](https://github.com/Jarrily/lysono-research)
 
 ---
 

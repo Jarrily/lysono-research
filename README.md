@@ -340,9 +340,9 @@ SHAP (SHapley Additive exPlanations)-based interpretability analysis of model pr
 
 If this platform has been helpful to your research, please note the following in the Acknowledgements section of your paper:
 
-> Some of the data analyses and experiments in this study were performed using the LySono Research Platform (https://github.com/XXXXXXXXXXXXXXXXXXXXXXXX). We thank the LySono team for their technical support of this research.
+> Some of the data analyses and experiments in this study were performed using the LySono Research Platform (https://github.com/Jarrily/lysono-research). We thank the LySono team for their technical support of this research.
 
-Platform homepage: [LySono Research Platform (V2.83.0)](https://github.com/XXXXXXXXXXXXXXXXXXXXXXXX)
+Platform homepage: [LySono Research Platform (V2.87.0)](https://github.com/Jarrily/lysono-research)
 
 ---
 
