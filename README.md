@@ -303,6 +303,13 @@ SHAP (SHapley Additive exPlanations)-based interpretability analysis of model pr
 - ➡️ **Module 2: Medical Image Data Processing → 2.3 Deep Learning → (1) Deep learning model training: fixed pretrained-weight loading error (PyTorch 2.6 compatibility)**
 - ➡️ **Module 4: Clinical Data Analysis → 4.2 One-click clinical analysis / 4.5 Multivariate logistic regression: fixed empty standard error / p-value in coefficient table (numerical issue under quasi-complete separation)**
 
+#### 🗓️ 2026-11-03
+
+**✅ Fixes**
+- ➡️ **Module 2: Medical Image Data Processing → 2.3 Deep Learning → (1) Deep learning model training: fixed AUC computation failure being silently recorded as 0 (a clear warning is now shown when the val/test set contains a single class)**
+- ➡️ **Module 2: Medical Image Data Processing → 2.3 Deep Learning → (1) Deep learning model training: fixed RegNet 8.0GF model being untrainable / training the wrong architecture**
+- ➡️ **Module 2: Medical Image Data Processing → 2.3 Deep Learning → (1) Deep learning model training: fixed false "no image files in class folder" error when "Add ROI (mask)" is enabled**
+
 <details>
 <summary><b>📜 Historical Versions (v3.5.0 → v3.5.5, 2025.07 ～ 2026.03)</b></summary>
 
